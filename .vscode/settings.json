@@ -1,0 +1,7 @@
+// .vscode/settings.json
+{
+  "[javascriptreact]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  }
+}
